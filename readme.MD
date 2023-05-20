@@ -5,13 +5,13 @@
 Python program, start with python interpreter.
 Syntax
 
-`python convert {_argument_} {_filename_}`
+`python convert {_option_} {_filename_}`
 
 or
 
-`python3 convert {_argument_} {_filename_}`
+`python3 convert {_option_} {_filename_}`
 
-Command line otions:
+Command line options:
 - -f &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;convert one file in the given folder.
 - -p &nbsp;&nbsp;&nbsp;&nbsp;convert all files in the given folder but not in thsubfolders.
 - -pr &nbsp;&nbsp;&nbsp;convert all files in the given folder and all subfolderrecursively.
