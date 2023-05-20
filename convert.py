@@ -1,3 +1,4 @@
+# PNG to WEBP converter
 import glob
 import os
 from pathlib import Path
